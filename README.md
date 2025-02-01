@@ -1,4 +1,4 @@
-👋 Hi, I’m Rashid Sadykov aka @rashidiksadykov
+👋 Hi, I’m Rashid aka @Dzhigit
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=339933&color=238636&labelColor=ffffff)

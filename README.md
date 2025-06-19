@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [cryptosnake](cryptosnake)
 
-- 🌱 I’m currently learning **TS, NodeJS**
+- 🌱 I’m currently learning **React, TS, NodeJS**
 
 - 📫 How to reach me **...**
 <h3 align="left">Languages and Tools:</h3>

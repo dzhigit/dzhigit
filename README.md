@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **TS, NodeJS**
 
 - 📫 How to reach me **...**
-
-- ⚡ Fun fact **My GitHub commits are fueled by copious amounts of coffee and occasional bouts of cat memes for inspiration!**
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
@@ -21,6 +19,7 @@
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhigit&show_icons=true&locale=en&layout=compact" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzhigit&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhigit&" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhigit&show_icons=true&locale=en&layout=compact" alt="dzhigit"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzhigit&show_icons=true&locale=en" alt="dzhigit"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhigit"  alt="dzhigit" /></p>

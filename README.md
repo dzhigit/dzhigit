@@ -5,12 +5,14 @@
 
 - 🔭 I’m currently working on [metaverse](metaverse)
 
-- 🌱 I’m currently learning **React, TS, NodeJS**
+- 🌱 I’m currently learning
 
-- 📫 How to reach me **...**
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E) ![](https://img.shields.io/badge/React+TS-informational?style=for-the-badge&logo=React)
+
+- 📫 developer@altyngroup.slmail.me
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
+
 
 
 

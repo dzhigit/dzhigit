@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dzhigit</h1>
-<h3 align="center">The most common github user</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" width="400" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[metaverse](metaverse)**
